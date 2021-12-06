@@ -12,10 +12,6 @@
   },
   "author": "Ravindu",
   "license": "GNU",
-  "dependencies": {
-    "chalk": "4.1.0"
-  },
-  "devDependencies": {},
   "bugs": {
     "url": "https://github.com/ravindu01manoj/Sew-Queen/issues"
   },

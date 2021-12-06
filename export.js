@@ -1,5 +1,5 @@
 let Details = require('sew-queen-pro/sources/dc/Details');
-let Main = require('./Menus/_default')
+let Main = require('./Menus/_Default')
 var DOWNLOADCMD = Main.DOWNLOADCMD;var LOGOCMD = Main.LOGOCMD;var PROFILECMD = Main.PROFILECMD;var ADMINCMD = Main.ADMINCMD;var AUDIOCMD = Main.AUDIOCMD;var VIDEOCMD = Main.VIDEOCMD;var IMAGECMD = Main.IMAGECMD;var DEEPAICMD = Main.DEEPAICMD
 
 

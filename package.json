@@ -1,6 +1,6 @@
 {
   "name": "cmd-layout",
-  "version": "0.0.0-pending",
+  "version": "1.0.0",
   "description": "command layout for sew queen whatsapp bot",
   "main": "export.js",
   "scripts": {
